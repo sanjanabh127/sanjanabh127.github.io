@@ -3,4 +3,8 @@ const nav=document.querySelector(".links");
 menu.onclick=()=>{
     menu.classList.toggle('bx-x');
     nav.classList.toggle('active');
+
+}
+function showMessage() {
+    alert("YEaaaa Sure 😄 We’ll consider it!");
 }
