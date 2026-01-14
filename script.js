@@ -5,6 +5,3 @@ menu.onclick=()=>{
     nav.classList.toggle('active');
 
 }
-function showMessage() {
-    alert("YEaaaa Sure 😄 We’ll consider it!");
-}
